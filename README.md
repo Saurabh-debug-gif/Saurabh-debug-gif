@@ -39,4 +39,4 @@ Turning coffee ☕ into scalable code, one commit at a time.
 ---
 
 📫 **Let's Connect!**  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:saurabh9903giri@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/saurabh-giri-16175b334/?trk=opento_sprofile_topcard) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:saurabh9903giri@gmail.com)
