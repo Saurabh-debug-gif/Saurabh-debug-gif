@@ -26,8 +26,8 @@ Turning coffee ☕ into scalable code, one commit at a time.
 ### ⚙️ **Backend Brilliance**
 | Tool/Tech        | Superpower |
 |------------------|------------|
-| Node.js          | Powering the server-side 🚀 |
-| Express.js       | Making backend routes buttery smooth 🛣️ |
+| Springboot       | Powering the server-side 🚀 |
+|                  | Making backend routes buttery smooth 🛣️ |
 | MongoDB / MySQL  | Organizing data like a pro 📂 |
 | Java             | Rock-solid enterprise-level coding 🏛️ |
 
